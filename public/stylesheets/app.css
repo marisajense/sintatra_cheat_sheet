@@ -1,0 +1,38 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+html {
+  border: 5px solid purple;
+}
+
+li {
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+div {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -160px;
+  margin-right: 40px;
+}
+
+.comppic {
+  border: 5px solid purple;
+}
+
+#home-button {
+  color: purple;
+  font-size: 30px;
+}
+
+hr {
+  height: 5px;
+  border-top: 1px solid purple;
+}
